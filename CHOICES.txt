@@ -1,6 +1,6 @@
 CHOICES
 
-First Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/1b.md
+First Choice: ____
 Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
