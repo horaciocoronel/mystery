@@ -6,3 +6,5 @@ Third Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/3a.md
 Fourth Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/4b.md
 Fifth Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/3c.md
 Sixth Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/3b.md
+Seventh Choice:
+https://github.com/bitmakerlabs/mystery/blob/master/story/4c.md
